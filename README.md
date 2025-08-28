@@ -1,6 +1,6 @@
 # Merhaba 👋 Ben Himmetullah Güneş  
 
-💻 Ben tutkulu bir **Full Stack Web Developer** 
+💻 Ben tutkulu bir **Full Stack Web Developer**.
 🚀 Modern teknolojilerle web uygulamaları geliştiriyorum.  
 🌱 Sürekli öğreniyor ve kendimi geliştiriyorum. 
 
